@@ -1,0 +1,21 @@
+/*
+Theme Name: UniXHub
+Theme URI: https://www.unixhub.com.bd
+Author: Student Developer
+Author URI: https://www.unixhub.com.bd
+Description: Amazon-style resale marketplace for Bangladesh
+Version: 1.0
+Text Domain: unixhub
+*/
+
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
